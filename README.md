@@ -12,3 +12,6 @@ Cách sử dụng:
                 Bước 2:
                     git push: đẩy code lên server ...
                     
+        SSH:
+            https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh
+        
