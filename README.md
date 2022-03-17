@@ -1,5 +1,7 @@
 Cách sử dụng:
     Tải git từ link: https://www.git-scm.com/
+    Xóa git init không cần thiết:
+        git restore
     Các thao tác với github:
         HTTPS:
             git clone [Địa chỉ HTTPS]: lấy code từ github về project (Thực hiện lần đầu)
