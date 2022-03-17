@@ -10,5 +10,5 @@ Cách sử dụng:
                     git add: Thêm file vào tracked list
                     git commit -m: đẩy lên local repo và thêm thông báo
                 Bước 2:
-                    git push: đẩy code lên server
+                    git push: đẩy code lên server ...
                     
