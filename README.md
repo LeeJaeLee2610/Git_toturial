@@ -9,7 +9,7 @@ Cách sử dụng:
             git push:
                 git status: Kiểm tra trạng thái của các file trong project
                 Bước 1: Đẩy code lên local repo
-                    git add: Thêm file vào tracked list
+                    git add: Thêm file vào tracked list bình thường sẽ dùng: git add . - dùng để push tất cả
                     git commit -m: đẩy lên local repo và thêm thông báo
                 Bước 2:
                     git push: đẩy code lên server ...
